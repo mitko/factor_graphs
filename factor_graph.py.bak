@@ -1,0 +1,17 @@
+
+class FactorGraph()
+	nodes
+	factors
+
+
+
+
+class Factor()
+
+
+
+class Node()
+
+class CPT()
+
+
